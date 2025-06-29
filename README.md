@@ -134,7 +134,7 @@ Dataset dibagi menjadi dua bagian: data latih (80%) dan data uji (20%) secara ac
 Algoritma yang digunakan pada proyek ini adalah Decision Tree dengan kriteria entropy (C4.5). Algoritma ini dipilih karena mampu menangani data numerik dan kategorik, serta menghasilkan model yang mudah diinterpretasi.
 
 
-### 2. Random Forest
+### Decion tree c4.5
 Random Forest adalah model ensemble yang menggabungkan banyak pohon keputusan untuk menghasilkan prediksi yang lebih akurat dan stabil.
 
 - **Parameter**:
@@ -208,6 +208,7 @@ Dari tabel di atas, data set yang saya berikan itu, memiliki performa terbaik se
 ### Analisis Confusion Matrix
 
 Confusion matrix memberikan informasi tentang prediksi benar (True Positives dan True Negatives) serta prediksi salah (False Positives dan False Negatives). Berikut adalah confusion matrix dari masing-masing model:
+![image](https://github.com/user-attachments/assets/13a04132-c442-444e-8278-067c52ad8791)
 
  Hasil Confusion Matrix
 
