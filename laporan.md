@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Fetra Abdul Malik_2306039
+# Laporan Proyek Machine Learning - Fetra Abdul Malik_2306039 -tsani hisni amala(2306050)
 
 # Domain Proyek
 Obesitas merupakan masalah kesehatan global yang meningkatkan risiko penyakit kronis seperti diabetes, jantung, dan hipertensi. Deteksi dini melalui model prediktif dapat membantu intervensi preventif. Menurut WHO (2023), prevalensi obesitas global telah meningkat tiga kali lipat sejak 1975. Implementasi machine learning seperti algoritma C4.5 efektif untuk klasifikasi pola obesitas berdasarkan faktor risiko (Quinlan, 1993).
